@@ -1,1 +1,5 @@
-package repeat_go
+package main
+
+func main() {
+
+}
